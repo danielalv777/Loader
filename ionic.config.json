@@ -1,0 +1,7 @@
+{
+  "name": "LoaderComponent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
