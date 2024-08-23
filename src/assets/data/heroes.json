@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "name": "Batman",
+      "alias": "Dark Knigth",
+      "description": "Vigilante de ciudad Gotica, siempre va de negro.",
+      "photo": "assets/data/photos/batman_photo.png"
+    },
+    {
+      "id": "002",
+      "name": "Spiderman",
+      "alias": "Tu vecino amigable",
+      "description": "Vigilante de New York, le gusta trepar muros y detener trenes.",
+      "photo": "assets/data/photos/spiderman_photo.png"
+    },
+    {
+      "id": "003",
+      "name": "Thor",
+      "alias": "Beach Boy",
+      "description": "Dios Asgardiano, el vengador mas fuerte. Ama su martillo mas que a nada en el universo.",
+      "photo": "assets/data/photos/thor_photo.png"
+    },
+    {
+      "id": "004",
+      "name": "Superman",
+      "alias": "Man of steel",
+      "description": "Kal-el, proveniente de un planeta extinto. Dios de dioses y en sus tiempos libre, periodista!",
+      "photo": "assets/data/photos/superman_photo.png"
+    }
+  ]
+}

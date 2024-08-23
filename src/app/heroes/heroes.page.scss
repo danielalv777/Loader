@@ -1,0 +1,21 @@
+.hero-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.hero-image {
+  flex: 0 0 auto;
+  margin-right: 16px;
+}
+
+.hero-image img {
+  width: 100px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.hero-content {
+  flex: 1 1 auto;
+}
